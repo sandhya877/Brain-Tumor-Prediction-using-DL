@@ -1,1 +1,1 @@
-# Brain-Tumor-Prediction-using-CNN
+# Brain-Tumor-Prediction-using-DL
